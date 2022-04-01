@@ -1,0 +1,6 @@
+{
+  "Port": 3555,
+  "ServerName": "Test Server",
+  "WelcomeMessage": "[USERNAME] Welcome!",
+  "GoodbyeMessage": "[USERNAME] GoodBye"
+}
