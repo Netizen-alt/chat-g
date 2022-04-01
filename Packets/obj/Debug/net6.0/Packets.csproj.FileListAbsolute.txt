@@ -1,0 +1,12 @@
+E:\chat-gram\Packets\bin\Debug\net6.0\Packets.deps.json
+E:\chat-gram\Packets\bin\Debug\net6.0\Packets.dll
+E:\chat-gram\Packets\bin\Debug\net6.0\Packets.pdb
+E:\chat-gram\Packets\obj\Debug\net6.0\Packets.csproj.AssemblyReference.cache
+E:\chat-gram\Packets\obj\Debug\net6.0\Packets.GeneratedMSBuildEditorConfig.editorconfig
+E:\chat-gram\Packets\obj\Debug\net6.0\Packets.AssemblyInfoInputs.cache
+E:\chat-gram\Packets\obj\Debug\net6.0\Packets.AssemblyInfo.cs
+E:\chat-gram\Packets\obj\Debug\net6.0\Packets.csproj.CoreCompileInputs.cache
+E:\chat-gram\Packets\obj\Debug\net6.0\Packets.dll
+E:\chat-gram\Packets\obj\Debug\net6.0\refint\Packets.dll
+E:\chat-gram\Packets\obj\Debug\net6.0\Packets.pdb
+E:\chat-gram\Packets\obj\Debug\net6.0\ref\Packets.dll
