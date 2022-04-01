@@ -7,4 +7,4 @@
  ## 😎 ดาวน์โหลดโปรแกรมเพื่อทดสอบ
  [Download](https://cdn.discordapp.com/attachments/901560603104124969/959463655336976446/Chat-A.rar) Version: 1.0.1 last
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/800312400905633802)](https://discord.com/users/800312400905633802)
+
