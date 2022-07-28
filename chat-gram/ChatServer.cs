@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -30,7 +30,7 @@ namespace ChatProgram
             _port = _config.Port;
             _listener = new TcpListener(IPAddress.Any, _port);
 
-            Console.Title = "Server core | 1.0.1 By: LynnTeam";
+            Console.Title = "Server core | 1.0.2 By: CHIBADEV_TEAM";
 
         }
 
