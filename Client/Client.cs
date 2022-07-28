@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net.Sockets;
 using System.Text;
@@ -26,7 +26,7 @@ namespace Client
             var colors = new byte[] { 9, 11, 1, 3, 2, 4, 6, 10, 13, 12, 14 };
             _color = colors[new Random().Next(colors.Length)];
 
-            Console.Title = "Client Side | 1.0.1 By: LynnTeam";
+            Console.Title = "Client Side | 1.0.1 By: CHIBADEV_TEAM";
         }
 
         public async Task RunClientAsync()
